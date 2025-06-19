@@ -1,0 +1,14 @@
+{
+    "name": "blank Page",
+    "version": "0.0.0.1",
+    "manifest_version": 3,
+    "description": "customed by ran",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+     }
+    ,
+    "icons": {
+   "16": "ico.png"
+
+ }
+}
